@@ -2,9 +2,9 @@
   <div class="login-container slideshow">
     <div class="slideshow-image"></div>
 	  <div class="slideshow-image"></div>
-    <h1 class="login-logo">乐游哉</h1>
+    <h1 class="login-logo">塞北游</h1>
     <div class="login-form-wrap">
-      <h2 class="login-title">乐游哉顾问平台登录</h2>
+      <h2 class="login-title">塞北游顾问平台登录</h2>
       <el-form autoComplete="on" :model="loginForm" :rules="loginRules" 
       ref="loginForm" label-position="left" label-width="0px">
       <el-form-item prop="username">
